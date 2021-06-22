@@ -20,18 +20,11 @@ example output :
     ]
 }
 ```
-
-
-
-
-
-
-
-
-
 <br>
 > http://127.0.0.1:3000/out2<br>
 example output : 
+<!-- -->
+
 ```javascript
 {
     "geometry_locs_#1": [...],
@@ -49,6 +42,8 @@ example output :
 <br>
 > http://127.0.0.1:3000/out3<br>
 example output : 
+<!-- -->
+
 ```javascript
 {
     "geometry_locs": [
