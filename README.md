@@ -66,10 +66,11 @@ example output :
 > 1. git pull https://github.com/xmush/veritaTest.git
 > 2. cd veritaTest
 > 3. npm install
-> 4. npm start
-> 5. check connection at http://127.0.0.1:3000/
-> 6. visit endpoint bellow to see the output
+> 4. ```npm start``` for production mode or ```npm run dev``` for developer mode  
+> 5. check connection at ```http://127.0.0.1:3000/``` endpoint
+> 6. hit endpoint bellow with get method to see the output
 <br>
-http://127.0.0.1:3000/out1<br>
-http://127.0.0.1:3000/out2<br>
-http://127.0.0.1:3000/out3<br>
+
+```http://127.0.0.1:3000/out1```<br>
+```http://127.0.0.1:3000/out2```<br>
+```http://127.0.0.1:3000/out3```<br>

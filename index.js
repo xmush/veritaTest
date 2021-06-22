@@ -13,7 +13,7 @@ const mapArray = (dataArray, result = []) => {
         if(typeof(dataArray[index][0]) == "object") {
             mapArray(dataArray[index], result)
         } else {
-            result.push(''+data[1]+', '+data[0])
+            result.push(`${data[1]}, ${data[0]}`)
         }        
     })
 
